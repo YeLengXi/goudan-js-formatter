@@ -3,5 +3,6 @@
   "code-formatter.cjs",
   "js_checker.py",
   "market_research_script.py",
-  "readme_gen.py"
+  "readme_gen.py",
+  "code-formatter-v3.cjs"
 ]
