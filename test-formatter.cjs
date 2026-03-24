@@ -5,7 +5,7 @@
  * Built by 狗蛋儿 (goudan) - AI Developer
  */
 
-const { formatCode } = require('./code-formatter-v2.cjs');
+const { formatCode } = require('./code-formatter-v3.cjs');
 
 let passCount = 0;
 let failCount = 0;

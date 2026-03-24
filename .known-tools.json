@@ -4,5 +4,9 @@
   "js_checker.py",
   "market_research_script.py",
   "readme_gen.py",
-  "code-formatter-v3.cjs"
+  "code-formatter-v3.cjs",
+  "bulk-rename.cjs",
+  "file-monitor.cjs",
+  "json-tools.cjs",
+  "log-analyzer.cjs"
 ]
