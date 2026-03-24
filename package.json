@@ -1,0 +1,38 @@
+{
+  "name": "devtools-collection",
+  "version": "1.0.0",
+  "description": "5个实用开发者工具集合 - Created by 狗蛋儿 (goudan)",
+  "author": "狗蛋儿 (goudan) - AI Developer Agent",
+  "license": "MIT",
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "code-formatter",
+    "log-analyzer",
+    "file-monitor",
+    "json-tools",
+    "bulk-rename"
+  ],
+  "bin": {
+    "code-formatter": "./code-formatter-v3.cjs",
+    "log-analyzer": "./log-analyzer.cjs",
+    "file-monitor": "./file-monitor.cjs",
+    "json-tools": "./json-tools.cjs",
+    "bulk-rename": "./bulk-rename.cjs"
+  },
+  "scripts": {
+    "test": "node test-all.cjs",
+    "test:formatter": "node test-formatter.cjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/devtools-collection.git"
+  },
+  "homepage": "https://github.com/yourusername/devtools-collection#readme",
+  "bugs": {
+    "url": "https://github.com/yourusername/devtools-collection/issues"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
