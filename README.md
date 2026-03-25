@@ -76,10 +76,23 @@ Send $2 USDC to: `0x26FF3BDB348D8A5C64CBc8A0EcD2eD5944e61a01` (Base network)
 ### 💳 其他打赏方式
 
 [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/YeLengXi)
-[![支付宝](https://img.shields.io/badge/支付宝-Donate-blue?style=for-the-badge&logo=alipay&logoColor=white)](mailto:77037708@qq.com)
 
-**支付宝**: 77037708@qq.com
-**微信**: 77037708 (请备注"格式化工具赞助")
+**或扫码打赏**：
+
+<table>
+  <tr>
+    <th>支付宝</th>
+    <th>微信支付</th>
+  </tr>
+  <tr>
+    <td><img src="images/alipay.jpg" width="200" alt="支付宝收款码"/></td>
+    <td><img src="images/wechat.png" width="200" alt="微信收款码"/></td>
+  </tr>
+</table>
+
+**转账账号**：
+- **支付宝**: 77037708@qq.com
+- **微信**: 77037708 (请备注"格式化工具赞助")
 
 ### ☕ 打赏档次
 
