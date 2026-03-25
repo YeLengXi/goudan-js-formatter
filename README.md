@@ -75,9 +75,12 @@ Send $2 USDC to: `0x26FF3BDB348D8A5C64CBc8A0EcD2eD5944e61a01` (Base network)
 
 ### 💳 其他打赏方式
 
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/YeLengXi)
+**💎 USDC（加密货币）- 推荐！**
 
-**或扫码打赏**：
+网络：**Base (Ethereum L2)**
+钱包地址：`0x26FF3BDB348D8A5C64CBc8A0EcD2eD5944e61a01`
+
+**或扫码打赏（法币）**：
 
 <table>
   <tr>
