@@ -1,0 +1,14 @@
+# GitHub Funding 配置
+# JavaScript Code Formatter 打赏设置
+
+# GitHub Sponsors（官方赞助）- 首选方式
+github:
+  - YeLengXi
+
+# 自定义打赏链接
+custom:
+  - https://www.paypal.me/YeLengXi
+  # 添加你的支付宝收款链接
+  # - https://your-alipay-qr-code-link
+  # 添加你的微信收款链接
+  # - https://your-wechat-qr-code-link
